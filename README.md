@@ -34,7 +34,7 @@
 <b>I am also really good in the Information Technology field. If you have any IT related questions please don't hesitate to reach out.</b></p>
 <br>
 <h2>           Social Media</h2>
-<img src="https://im7.ezgif.com/tmp/ezgif-7-ea212eb08d77.gif" align="right" width="373.5px" height="208.5px">
+<!-- <img src="" align="right" width="373.5px" height="208.5px"> -->
 <br>
 <p align="center"> <br>
 </p>
