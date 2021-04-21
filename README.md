@@ -10,7 +10,7 @@
 <br>
 <div>
 <h2 align="center"> About Me </h2>
-<img src="https://im7.ezgif.com/tmp/ezgif-7-68a8285bdbbf.gif" align="right">
+<!-- <img src="" align="right">  image size used was 160x219 -->
 <li>
 <b>Name:</b> Ace  </li>
 <li>
@@ -26,7 +26,7 @@
 <div>
 <h2 align="left">            Skills</h2>
 <p>
-<img src="https://im7.ezgif.com/tmp/ezgif-7-c7b48b613ac1.gif" align="right">
+<!-- <img src=" " align="right">   image size used was 400x226 -->
 </div>
 <div>
 <p align="center"><br>
