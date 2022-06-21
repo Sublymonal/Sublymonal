@@ -6,7 +6,7 @@
 - [x] Make a github
 - [x] Create a list
 - [x] Check this box
-- [ ] Complete all 24 weeks of App Academy
+
 <br>
 <div>
 <h2 align="center"> About Me </h2>
