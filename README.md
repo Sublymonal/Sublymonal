@@ -39,7 +39,7 @@
 <p align="center"> <br>
 </p>
 <p align="center"><a href="https://twitter.com/sweet_en_s0ur" target="_blank"><img src="https://img.shields.io/badge/Sweet_en_S0ur%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/" target="_blank"><img src="https://img.shields.io/badge/SometimesAce%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://www.twitch.tv/imsometimesace" target="_blank"><img src="https://img.shields.io/badge/ImSometimesAce%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.twitch.tv/tatsunok0_" target="_blank"><img src="https://img.shields.io/badge/Tatsunok0_%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
